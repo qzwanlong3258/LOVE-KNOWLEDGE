@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "3b45df1ff60a8c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "63cc1fb1ee569310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa91b39264c43f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "麦丰打工人/小文件/NTHN7521MA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NTHN7521MA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "801994eb0610c51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "db00f36f2da427b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb06002a7dea9d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "596eabcc06d2d5eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8b0ca958bcc488bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91974a8fdde86e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a24ce222804f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec47b3b3c01e56ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "麦丰打工人/小文件/LT2007.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LT2007 的反向链接列表"
+            }
+          },
+          {
+            "id": "ab3fdaaafe9eb9a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "麦丰打工人/小文件/LT2007.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LT2007 的出链列表"
+            }
+          },
+          {
+            "id": "e8f0bb374b981ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "96d152826865d8de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a42f0aeb7ab3a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "麦丰打工人/小文件/LT2007.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LT2007 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "efa91b39264c43f8",
+  "lastOpenFiles": [
+    "麦丰打工人/原料.md",
+    "麦丰打工人/认证.md",
+    "麦丰打工人/配方.md",
+    "麦丰打工人/小文件/NTHN7521MA.md",
+    "麦丰打工人/小文件/TAC-GR70.md",
+    "麦丰打工人/小文件/F40P-SP2 ARKEMA.md",
+    "麦丰打工人/小文件/LT2007.md",
+    "麦丰打工人/小文件/HVA-2.md",
+    "麦丰打工人/小文件/未命名.md",
+    "麦丰打工人/小文件/445.md",
+    "TAC/GR70.md",
+    "TAC",
+    "麦丰打工人/小文件/TP-95.md",
+    "麦丰打工人/小文件/445 1.md",
+    "麦丰打工人/小文件/ZP2000.md",
+    "麦丰打工人/小文件/PAHs.md",
+    "麦丰打工人.md",
+    "麦丰打工人/小文件",
+    "麦丰打工人",
+    "未命名 1.base",
+    "未命名.base",
+    "2026-03-21.md",
+    "未命名.canvas",
+    "未命名 2.md",
+    "麦丰打工人/配方",
+    "麦丰打工人",
+    "未命名 1.md"
+  ]
+}
