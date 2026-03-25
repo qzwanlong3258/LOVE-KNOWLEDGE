@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "麦丰打工人/小文件/NTHN7521MA.md",
+                "file": "小文件/KEP-960N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTHN7521MA"
+              "title": "KEP-960N"
             }
           }
         ]
@@ -180,37 +180,47 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "active": "efa91b39264c43f8",
   "lastOpenFiles": [
+    "小文件/NE7030P-1MA.md",
+    "麦丰打工人/配方.md",
+    "小文件/NTHN7521MA.md",
+    "小文件/D2000符号.md",
+    "小文件/DC40P-SP2.md",
+    "小文件/CZ.md",
+    "小文件/CACO3.md",
+    "小文件/BPC-187(綠色色粉).md",
+    "小文件/BIPB-40PC.md",
+    "小文件/ATBC.md",
+    "小文件/AF42.md",
+    "小文件/AF25.md",
+    "小文件/未命名.md",
+    "小文件/绿色色粉（铬绿GN).md",
+    "小文件/3345.md",
+    "小文件/935P.md",
+    "小文件/445.md",
+    "小文件/101-50D.md",
+    "小文件/NN70226MA.md",
+    "小文件/2845.md",
     "麦丰打工人/原料.md",
     "麦丰打工人/认证.md",
-    "麦丰打工人/配方.md",
-    "麦丰打工人/小文件/NTHN7521MA.md",
-    "麦丰打工人/小文件/TAC-GR70.md",
-    "麦丰打工人/小文件/F40P-SP2 ARKEMA.md",
-    "麦丰打工人/小文件/LT2007.md",
-    "麦丰打工人/小文件/HVA-2.md",
-    "麦丰打工人/小文件/未命名.md",
-    "麦丰打工人/小文件/445.md",
-    "TAC/GR70.md",
+    "麦丰打工人/测试.md",
+    "小文件/PL400.md",
+    "小文件/OD.md",
+    "小文件/RD.md",
     "TAC",
-    "麦丰打工人/小文件/TP-95.md",
-    "麦丰打工人/小文件/445 1.md",
-    "麦丰打工人/小文件/ZP2000.md",
-    "麦丰打工人/小文件/PAHs.md",
-    "麦丰打工人.md",
-    "麦丰打工人/小文件",
+    "Pasted image 20260325093806.png",
+    "ALL",
+    "小文件",
     "麦丰打工人",
     "未命名 1.base",
     "未命名.base",
-    "2026-03-21.md",
     "未命名.canvas",
-    "未命名 2.md",
     "麦丰打工人/配方",
-    "麦丰打工人",
-    "未命名 1.md"
+    "麦丰打工人"
   ]
 }
