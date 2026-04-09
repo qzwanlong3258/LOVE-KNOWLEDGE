@@ -1,5 +1,5 @@
 **NANCAR 2845（Nancar 2845）** 是台湾 **Nantex Industry Co., Ltd.（南帝化工）** 生产的**丁腈橡胶（Nitrile Butadiene Rubber，NBR）** 生胶，属于**低门尼粘度（Low Mooney）** 的中等丙烯腈（Medium ACN）冷聚合法牌号。它是 NANCAR 2865 的低门尼版本，特别强调加工性和低温性能。
-
+20.7
 ### 主要性能参数（典型值）
 
 - **结合丙烯腈含量 (Bound Acrylonitrile)**：**28%**（中等水平，Medium ACN，提供中等耐油性）

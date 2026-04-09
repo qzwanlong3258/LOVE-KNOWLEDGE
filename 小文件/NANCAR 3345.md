@@ -1,5 +1,5 @@
 **ANCAR 3345（南帝 NANCAR 3345）** 是台湾 **Nantex Industry Co., Ltd.（南帝化工）** 生产的**丁腈橡胶（Nitrile Butadiene Rubber，NBR）** 生胶，属于**中等高丙烯腈含量（Medium-High ACN）** 的冷聚合法牌号。它是多用途型NBR，具有低门尼粘度、优异加工性和快速硫化特点。
-
+20.7
 ### 主要性能参数（典型值）
 
 - **结合丙烯腈含量 (Bound Acrylonitrile)**：**33%**（范围32-34% 或 31-35%，属于中等高ACN，提供良好耐油性）

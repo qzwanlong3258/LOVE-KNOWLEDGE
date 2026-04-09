@@ -1,7 +1,7 @@
 
 
 **NIPOL DN3335（Nipol DN3335）** 是日本 **Zeon Corporation（瑞翁公司）** 生产的**丁腈橡胶（Nitrile Butadiene Rubber，NBR）** 生胶，属于**中等丙烯腈含量（Medium ACN）** 的冷聚合法牌号。
-
+19.56
 ### 主要性能参数（典型值）
 
 - **结合丙烯腈含量 (Bound Acrylonitrile)**：**33%**（中等水平）

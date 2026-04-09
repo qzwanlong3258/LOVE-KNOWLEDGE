@@ -1,5 +1,6 @@
 根据现有资料，**PT. SUMI ASIH**（全称：PT. Sumi Asih Oleochemicals Industry，中文常称为“印尼斯文”或“苏米亚西”）是印度尼西亚一家专业的油脂化工厂，其生产的硬脂酸（Stearic Acid，简称STAC）在中国及东南亚市场享有较高声誉，尤其是型号 **SA1801** 是其代表性产品。
 
+11.5
 以下是关于 PT. SUMI ASIH 硬脂酸（STAC）的性能、应用及用量的详细总结：
 
 ### 1. 产品性能 (Performance)
