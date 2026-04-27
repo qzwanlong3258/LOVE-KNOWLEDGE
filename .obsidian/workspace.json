@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b28334e3d3fe513",
+        "id": "9254c5525bb54063",
         "type": "tabs",
         "children": [
           {
-            "id": "3951a91f2a912d3a",
+            "id": "2aa87a48dcbf68dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "料号/NHN7040MA.md",
+                "file": "麦丰打工人/配方.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NHN7040MA"
+              "title": "配方"
+            }
+          },
+          {
+            "id": "6821784445d50057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "料号/NN70224MA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NN70224MA"
             }
           }
         ]
@@ -63,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "286",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,46 +208,53 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "3951a91f2a912d3a",
+  "active": "0fb06002a7dea9d5",
   "lastOpenFiles": [
-    "HN7040.pdf",
-    "小文件/聯成化學 DINP.md",
-    "料号/NHN7040MA.md",
-    "料号/NTHN7521MA.md",
-    "小文件/BIPB-40PC.md",
-    "小文件/ZP4310.md",
-    "小文件/PTFE L-5.md",
-    "料号/NE70129PFMA.md",
-    "料号/NE7030P-1MA.md",
+    "料号/NS2503FMA.md",
+    "图片/Pasted image 20260427174536.png",
+    "小文件/长泓胶业.md",
+    "小文件/未命名.md",
+    "小文件/未命名 1.md",
+    "小文件/231XL-40-SP.md",
     "麦丰打工人/表格.md",
-    "小文件/N774.md",
-    "小文件/SI GROUP 445.md",
-    "料号/NHN7037MA.md",
-    "小文件/935P.md",
-    "小文件/TAC-GR70.md",
+    "小文件/Fe2O3.md",
+    "小文件/CENUSIL R130.md",
+    "小文件/ELASTOSIL 401 20.md",
+    "料号/NS5017F-1MA.md",
     "料号/NC4501MA.md",
-    "小文件/KETTLITZ FL.md",
-    "料号/NC5505-1MA.md",
-    "料号/NE4502MA.md",
-    "料号/NE6002MA.md",
-    "料号/NN5025MA.md",
-    "料号/NN70226MA.md",
-    "料号/NN9076MA.md",
-    "料号/NN70224MA.md",
-    "图片/NN70224MA--221029 1.pdf",
-    "NN70224MA--221029.pdf",
-    "小文件/ZNO.md",
-    "小文件/锐巴 HDS-80GE.md",
-    "图片/NN9076MA物性测试报告.pdf",
-    "图片/NN5025MA物性测试报告.pdf",
-    "图片/E6002 1.pdf",
-    "图片/E6002.pdf",
-    "图片/C4501.pdf",
-    "图片/NV6008MA.pdf",
-    "NS5017F-1MA.pdf",
-    "图片/NS5017F-1MA 1.pdf",
-    "图片/Pasted image 20260401111657.png",
-    "图片/Pasted image 20260325093806.png",
+    "料号/NS7073F-2A.md",
+    "小文件/PTC-B.3YY.md",
+    "小文件/PTC-A.md",
+    "小文件/RBB-2881-80.md",
+    "小文件/KE971TU.md",
+    "料号/NN7094A.md",
+    "麦丰打工人/SOP.md",
+    "麦丰打工人/原料.md",
+    "麦丰打工人/认证.md",
+    "麦丰打工人/测试.md",
+    "麦丰打工人/配方.md",
+    "图片/Pasted image 20260424165643.png",
+    "图片/Pasted image 20260424165612.png",
+    "图片/Pasted image 20260424165555.png",
+    "图片/Pasted image 20260424165542.png",
+    "图片/Pasted image 20260424165526.png",
+    "小文件/BDF401HP.md",
+    "料号/NV75144MA.md",
+    "料号/NV75232MA.md",
+    "图片/Pasted image 20260423172301.png",
+    "图片/Pasted image 20260423172248.png",
+    "图片/Pasted image 20260423172235.png",
+    "图片/Pasted image 20260421170614.png",
+    "未命名.base",
+    "图片/未命名4_加水印_加水印_加水印 1.pdf",
+    "图片/未命名4_加水印_加水印_加水印.pdf",
+    "配方AI",
+    "图片/未命名3_加水印_加水印.pdf",
+    "图片/未命名2_加水印.pdf",
+    "图片/未命名1_加水印.pdf",
+    "图片/未命名5_加水印.pdf",
+    "图片/NP5502MA.pdf",
+    "图片/HN7040.pdf",
     "未命名.canvas"
   ]
 }
