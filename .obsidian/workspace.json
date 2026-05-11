@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa87a48dcbf68dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "麦丰打工人/配方.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "配方"
-            }
-          },
-          {
             "id": "6821784445d50057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "料号/NN70224MA.md",
+                "file": "料号/NV7002MA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NN70224MA"
+              "title": "NV7002MA"
+            }
+          },
+          {
+            "id": "7f008faefdddf67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小文件/液態 TAIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "液態 TAIC"
             }
           }
         ]
@@ -77,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "286",
+                "query": "J00265",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,41 +200,42 @@
   },
   "active": "0fb06002a7dea9d5",
   "lastOpenFiles": [
-    "料号/NS2503FMA.md",
-    "图片/Pasted image 20260427174536.png",
-    "小文件/长泓胶业.md",
-    "小文件/未命名.md",
-    "小文件/未命名 1.md",
-    "小文件/231XL-40-SP.md",
+    "小文件/液態 TAIC.md",
+    "料号/NV7002MA.md",
     "麦丰打工人/表格.md",
-    "小文件/Fe2O3.md",
-    "小文件/CENUSIL R130.md",
-    "小文件/ELASTOSIL 401 20.md",
-    "料号/NS5017F-1MA.md",
-    "料号/NC4501MA.md",
-    "料号/NS7073F-2A.md",
-    "小文件/PTC-B.3YY.md",
-    "小文件/PTC-A.md",
-    "小文件/RBB-2881-80.md",
-    "小文件/KE971TU.md",
-    "料号/NN7094A.md",
-    "麦丰打工人/SOP.md",
-    "麦丰打工人/原料.md",
-    "麦丰打工人/认证.md",
-    "麦丰打工人/测试.md",
-    "麦丰打工人/配方.md",
-    "图片/Pasted image 20260424165643.png",
-    "图片/Pasted image 20260424165612.png",
-    "图片/Pasted image 20260424165555.png",
-    "图片/Pasted image 20260424165542.png",
-    "图片/Pasted image 20260424165526.png",
-    "小文件/BDF401HP.md",
-    "料号/NV75144MA.md",
-    "料号/NV75232MA.md",
-    "图片/Pasted image 20260423172301.png",
-    "图片/Pasted image 20260423172248.png",
-    "图片/Pasted image 20260423172235.png",
-    "图片/Pasted image 20260421170614.png",
+    "小文件/DAIKIN  G-902.md",
+    "图片/Pasted image 20260511172015.png",
+    "小文件/101-50D.md",
+    "小文件/CaSiO3.md",
+    "料号/NV6008MA.md",
+    "小文件/长泓胶业.md",
+    "料号/NB4002FA.md",
+    "图片/Pasted image 20260509165732.png",
+    "图片/Pasted image 20260509165716.png",
+    "料号/NE6002-1MA.md",
+    "图片/Pasted image 20260508174616.png",
+    "图片/Pasted image 20260508174602.png",
+    "图片/Pasted image 20260508174548.png",
+    "小文件/锐巴 RL-22.md",
+    "料号/NN5025MA.md",
+    "料号/NE6002MA.md",
+    "料号/NS70142312FMA.md",
+    "图片/Pasted image 20260508170825.png",
+    "小文件/GF-2071.md",
+    "小文件/C-8E.md",
+    "料号/NG7501A.md",
+    "图片/Pasted image 20260506175355.png",
+    "图片/Pasted image 20260506175342.png",
+    "小文件/映瑞工業.md",
+    "图片/Pasted image 20260506175201.png",
+    "小文件/Sulfur.md",
+    "小文件/促進劑 D.md",
+    "料号/NL7002A.md",
+    "小文件/BDBR-H3701.md",
+    "料号/NE7522MA.md",
+    "小文件/ZNO.md",
+    "料号/NN6006MA.md",
+    "料号/NHN7037MA.md",
     "未命名.base",
     "图片/未命名4_加水印_加水印_加水印 1.pdf",
     "图片/未命名4_加水印_加水印_加水印.pdf",
